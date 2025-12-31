@@ -3,3 +3,6 @@
 .env
 gadm41_CAN_shp
 venv_dm
+venv311
+Group25_EDA_Code/datasets/flights_without_outliers.csv
+Group25_EDA_Code/datasets/flights_db_with_outliers.csv
